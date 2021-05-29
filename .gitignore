@@ -1,0 +1,11 @@
+*.so
+*.o
+nvn
+*.dSYM
+.vscode
+*.a
+cache
+log
+tmp
+*.template
+git.sh
