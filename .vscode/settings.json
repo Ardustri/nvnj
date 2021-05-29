@@ -1,0 +1,7 @@
+{
+   "python.pythonPath": "/usr/local/bin/python3",
+   "files.associations": {
+      "*.py": "python",
+      "stdio.h": "c"
+   }
+}
